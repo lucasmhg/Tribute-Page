@@ -1,0 +1,61 @@
+body {
+  font-family: Segoe UI, Roboto;
+  font-size: 18px;
+background-color: #eddcc8;
+margin: 0px;
+
+}
+main {
+  background-image: linear-gradient(180deg, #debd95, #ad806a);
+  margin: 10px;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 5px
+}
+#img-div{
+  background-color: rgba(255,255,255,0.5);
+  padding: 15px;
+  border-radius: 18px;
+  display: block;
+ 
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0px auto 5px auto;
+  border-radius: 12px
+}
+h1 {
+margin: 30px auto;
+display: block;
+text-align: center
+}
+#tribute-info {
+margin: 8px auto;
+display: block;
+text-align: left
+}
+#subtitle {
+margin: 15px auto;
+display: block;
+text-align: center;
+max-width: 1024px
+}
+h6 {
+margin: 50px auto;
+display: block;
+text-align: left;
+font-size: 1em
+}
+#tribute-info{
+  max-width: 1024px;
+}
+#img-caption {
+  max-width: 1024px;
+  text-align: center;
+  margin: 0px auto;
+  font-size: .8em
+}
